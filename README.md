@@ -21,3 +21,17 @@ https://www.youtube.com/watch?v=oNhpm9NMVXs&t=1s
 
 * How Proof of Stack Works
 https://www.youtube.com/watch?v=M3EFi_POhps
+
+5. Why Web3 | Perpouse of Smart Contracts
+youtube video
+
+* Vitalik Buterin
+https://vitalik.ca/
+
+* Satoshi White Paper
+https://github.com/nehal2210/Blockchain-Engineer-Course/blob/main/Satoshi%20white%20paper.pdf
+
+* Ethereum White paper
+https://ethereum.org/en/whitepaper/
+
+* Ethereum Yellow Paper
