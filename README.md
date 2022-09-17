@@ -11,6 +11,11 @@ https://youtu.be/g4sF_PCgXT4
 3. What is Blockchain
 https://youtu.be/v40mFP6BR3I
 
+4. How Blockchain Works
+
+* Proof of Work Demo
+https://andersbrownworth.com/blockchain/hash
+
 * How people of Yapis use Blockchain
 https://www.youtube.com/watch?v=oNhpm9NMVXs&t=1s
 
