@@ -35,3 +35,4 @@ https://github.com/nehal2210/Blockchain-Engineer-Course/blob/main/Satoshi%20whit
 https://ethereum.org/en/whitepaper/
 
 * Ethereum Yellow Paper
+https://github.com/nehal2210/Blockchain-Engineer-Course/blob/main/ethereum%20yello%20paper.pdf
