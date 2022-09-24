@@ -12,6 +12,7 @@ https://youtu.be/g4sF_PCgXT4
 https://youtu.be/v40mFP6BR3I
 
 4. How Blockchain Works
+https://youtu.be/3WUHewOsABk
 
 * Proof of Work Demo
 https://andersbrownworth.com/blockchain/hash
@@ -23,7 +24,7 @@ https://www.youtube.com/watch?v=oNhpm9NMVXs&t=1s
 https://www.youtube.com/watch?v=M3EFi_POhps
 
 5. Why Web3 | Perpouse of Smart Contracts
-youtube video
+https://youtu.be/J_Lyx4fx4Nw
 
 * Vitalik Buterin
 https://vitalik.ca/
@@ -36,3 +37,31 @@ https://ethereum.org/en/whitepaper/
 
 * Ethereum Yellow Paper
 https://github.com/nehal2210/Blockchain-Engineer-Course/blob/main/ethereum%20yello%20paper.pdf
+
+
+## MODULE : 2 Development of Smart Contracts
+
+
+
+
+
+
+# BEYOND COURSE
+
+## OPEN SOURCE PROJECT IDEAS
+
+1.
+2.
+3.
+
+## PROBLEMS NEED TO BE SOLVED IN BLOCKCHAIN
+
+1.
+2.
+3.
+
+## RESEARCH ARTICLES
+
+1. 
+2.
+3.
