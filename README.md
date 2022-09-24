@@ -43,6 +43,13 @@ https://github.com/nehal2210/Blockchain-Engineer-Course/blob/main/ethereum%20yel
 
 
 
+## GitHub
+
+* How to create PR
+https://firstcontributions.github.io/
+
+* How to create Github Issues
+https://www.youtube.com/watch?v=TJlYiMp8FuY
 
 
 
