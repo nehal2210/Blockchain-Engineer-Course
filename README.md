@@ -51,6 +51,8 @@ https://firstcontributions.github.io/
 * How to create Github Issues
 https://www.youtube.com/watch?v=TJlYiMp8FuY
 
+**Note: PR Format branch name your-name/feature-you have change/add**
+**e.g. nehal/module2-doc**
 
 
 # BEYOND COURSE
