@@ -41,7 +41,8 @@ https://github.com/nehal2210/Blockchain-Engineer-Course/blob/main/ethereum%20yel
 
 ## MODULE : 2 Development of Smart Contracts
 
-
+* Smart Contracts
+https://github.com/nehal2210/Blockchain-Engineer-Course/tree/main/SmartContracts
 
 ## GitHub
 
