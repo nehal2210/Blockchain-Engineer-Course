@@ -44,7 +44,8 @@ https://github.com/nehal2210/Blockchain-Engineer-Course/blob/main/ethereum%20yel
 * Smart Contracts
 https://github.com/nehal2210/Blockchain-Engineer-Course/tree/main/SmartContracts
 
-
+* Smart Contract By Example
+https://solidity-by-example.org/
 
 
 
