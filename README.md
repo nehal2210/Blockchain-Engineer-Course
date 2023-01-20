@@ -48,7 +48,7 @@ https://github.com/nehal2210/Blockchain-Engineer-Course/tree/main/SmartContracts
 
 
 
-## MODULE : 6 Module-6 Applications (PARALLEL MODULE)
+## MODULE : 6 Applications (PARALLEL MODULE)
 
 * Coin VS Toke By Muhammad Nouman
 https://github.com/nehal2210/Blockchain-Engineer-Course/blob/main/Coin%20vs%20Theory.pptx
