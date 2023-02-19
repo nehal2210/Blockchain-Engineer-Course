@@ -5,7 +5,7 @@ dotenv.config();
 
 async function main() {
   const provider = new ethers.providers.JsonRpcProvider(
-    "https://goerli.infura.io/v3/5ff705223eaa4e0a84e5b76e7e0c1783"
+    "RPC_PROVIDER_URL"
   );
 
   // provider
