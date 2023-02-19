@@ -49,6 +49,17 @@ https://solidity-by-example.org/
 
 
 
+
+## MODULE : 3 Dapps
+
+* Ether JS
+https://github.com/nehal2210/Blockchain-Engineer-Course/tree/main/EtherJS
+
+* Decentalize Todo List
+https://github.com/nehal2210/D-Todo
+
+
+
 ## MODULE : 6 Applications (PARALLEL MODULE)
 
 * Coin VS Toke By Muhammad Nouman
