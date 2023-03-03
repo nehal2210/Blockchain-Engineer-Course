@@ -1,5 +1,7 @@
 # Blockchain-Engineer-Course
 
+
+
 ## MODULE : 1 Introduction to Blockchain
 
 1. Introduction to Course
@@ -110,45 +112,12 @@ https://www.youtube.com/watch?v=TJlYiMp8FuY
 
 ## OUR COLLABORATORS
 
-<div class="container">
+<div align="center">
+  
+| <img src="https://avatars.githubusercontent.com/u/41861195?v=4" alt="Haseeb Ahmed" style="border-radius: 50%; width: 100px;"> | 
+  <img src="https://avatars.githubusercontent.com/u/41865951?v=4" alt="Nehal Ahmed" style="border-radius: 50%; width: 100px;"> | 
+  <img src="https://media.licdn.com/dms/image/C5603AQG3sW8M7vYYWw/profile-displayphoto-shrink_400_400/0/1568832728611?e=1683158400&v=beta&t=IZcuosff9v87v24QfKkyPKB3jhphXXW0gc-7qNlL1U0" alt="Muhammad Nouman" style="border-radius: 50%; width: 100px;"> |
+|:---:|:---:|:---:|
+| Haseeb Ahmed | Nehal Ahmed | Muhammad Nouman |
 
-  <div>
-      <img src="https://avatars.githubusercontent.com/u/41861195?v=4" alt="Avatar 1" class="avatar">
-      <div class="label">Haseeb Ahmed</div>
-  </div>
-      
-  <div>
-     <img src="https://avatars.githubusercontent.com/u/41865951?v=4" alt="Avatar 3" class="avatar">
-     <div class="label">Nehal Ahmed</div>
-  </div>
- 
-  <div>
-    <img src="https://media.licdn.com/dms/image/C5603AQG3sW8M7vYYWw/profile-displayphoto-shrink_400_400/0/1568832728611?e=1683158400&v=beta&t=IZcuosff9v87v24QfKkyPKB3jhphXXW0gc-7qNlL1U0" alt="Avatar 2" class="avatar">
-    <div class="label">Muhammad Nouman</div>
-    </div>
-
-
-
-<style>
-      .container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-wrap: wrap;
-      }
-      
-      .avatar {
-        width: 150px;
-        height: 150px;
-        border-radius: 50%;
-       object-fit: cover;
-        margin: 20px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-      }
-      
-      .label {
-        text-align: center;
-        font-size: 1.2em;
-        margin-top: 2px;
-      }
- </style>
+</div>
