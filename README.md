@@ -107,3 +107,11 @@ https://www.youtube.com/watch?v=TJlYiMp8FuY
 1. 
 2.
 3.
+
+# Collaborators
+
+<div>
+<span>
+<img src="https://avatars.githubusercontent.com/u/41865951?v=4" alt="Avatar" style="border-radius: 50%">
+</span>
+</div>
