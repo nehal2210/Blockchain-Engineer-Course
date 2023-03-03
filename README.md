@@ -114,9 +114,7 @@ https://www.youtube.com/watch?v=TJlYiMp8FuY
 
 <div align="center">
   
-| <img src="https://avatars.githubusercontent.com/u/41861195?v=4" alt="Haseeb Ahmed" style="border-radius: 50%; width: 100px;"> | 
-  <img src="https://avatars.githubusercontent.com/u/41865951?v=4" alt="Nehal Ahmed" style="border-radius: 50%; width: 100px;"> | 
-  <img src="https://media.licdn.com/dms/image/C5603AQG3sW8M7vYYWw/profile-displayphoto-shrink_400_400/0/1568832728611?e=1683158400&v=beta&t=IZcuosff9v87v24QfKkyPKB3jhphXXW0gc-7qNlL1U0" alt="Muhammad Nouman" style="border-radius: 50%; width: 100px;"> |
+| <img src="https://avatars.githubusercontent.com/u/41861195?v=4" alt="Haseeb Ahmed" style="border-radius: 50%; width: 100px;"> | <img src="https://avatars.githubusercontent.com/u/41865951?v=4" alt="Nehal Ahmed" style="border-radius: 50%; width: 100px;"> | <img src="https://media.licdn.com/dms/image/C5603AQG3sW8M7vYYWw/profile-displayphoto-shrink_400_400/0/1568832728611?e=1683158400&v=beta&t=IZcuosff9v87v24QfKkyPKB3jhphXXW0gc-7qNlL1U0" alt="Muhammad Nouman" style="border-radius: 50%; width: 100px;"> |
 |:---:|:---:|:---:|
 | Haseeb Ahmed | Nehal Ahmed | Muhammad Nouman |
 
