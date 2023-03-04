@@ -60,6 +60,10 @@ https://github.com/nehal2210/Blockchain-Engineer-Course/tree/main/EtherJS
 * Decentalize Todo List
 https://github.com/nehal2210/D-Todo
 
+* Assignment Smart Contract Lottery
+https://youtu.be/aFI_XPll_mg
+
+
 
 
 ## MODULE : 6 Applications (PARALLEL MODULE)
