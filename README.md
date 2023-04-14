@@ -64,7 +64,8 @@ https://github.com/nehal2210/D-Todo
 https://youtu.be/aFI_XPll_mg
 
 
-
+* Base64 Encoding
+https://www.youtube.com/watch?v=wdeZIOJjjdE
 
 ## MODULE : 6 Applications (PARALLEL MODULE)
 
