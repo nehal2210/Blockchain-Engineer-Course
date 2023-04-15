@@ -63,6 +63,9 @@ https://github.com/nehal2210/D-Todo
 * Assignment Smart Contract Lottery
 https://youtu.be/aFI_XPll_mg
 
+* Token Vendor Machine
+https://github.com/nehal2210/Token-Vendor-Machine
+
 
 * Base64 Encoding
 https://www.youtube.com/watch?v=wdeZIOJjjdE
