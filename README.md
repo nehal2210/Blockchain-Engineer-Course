@@ -84,7 +84,7 @@ https://github.com/nehal2210/Blockchain-Engineer-Course/blob/main/Coin%20vs%20Th
 ## Learning Resources
 
 * Speed Run Ethereum https://speedrunethereum.com/
-
+* BuildSpace https://buildspace.so/p/mint-nft-collection
 
 
 
