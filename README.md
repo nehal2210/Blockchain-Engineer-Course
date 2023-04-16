@@ -85,8 +85,8 @@ https://github.com/nehal2210/Blockchain-Engineer-Course/blob/main/Coin%20vs%20Th
 
 * Speed Run Ethereum https://speedrunethereum.com/
 * BuildSpace https://buildspace.so/p/mint-nft-collection
-
-
+* Patrick Collins https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=7238s
+* Chainlink Services Overview By Hari https://youtu.be/nHn7u9wSHZs?list=PLVP9aGDn-X0Q1L67bV_AbDd75qTY6Ylxw
 
 ## GitHub
 
