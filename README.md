@@ -100,25 +100,14 @@ https://www.youtube.com/watch?v=TJlYiMp8FuY
 **e.g. nehal/module2-doc**
 
 
-# BEYOND COURSE
+# Assignment
 
-## OPEN SOURCE PROJECT IDEAS
 
-1.
-2.
-3.
+# Submitted Assignmets By Blockchain Ninjas
 
-## PROBLEMS NEED TO BE SOLVED IN BLOCKCHAIN
+* FullName  (url)
 
-1.
-2.
-3.
 
-## RESEARCH ARTICLES
-
-1. 
-2.
-3.
 
 ## OUR COLLABORATORS
 
